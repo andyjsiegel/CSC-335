@@ -14,7 +14,6 @@ public class CircleTest {
         assertEquals(c2.circumference(),2*5*Math.PI);
     }
     
-    @Test
     void testResize() {
         Circle c3 = new Circle(0,0,3);
         c3.resize(5);
