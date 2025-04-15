@@ -1,3 +1,17 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "2025_04_01_Quiz_5_Code",
+        "2025_03_27_Flyweight_Design_Pattern",
+        "2025_03_21_Short_Assignment_6",
+        "2025_03_20_In_Class_Code",
+        "2025_03_17_Short_Assignment_5",
+        "2025_03_07_Large_Assignment_2/src",
+        "2025_02_13_Short_Assignment_4",
+        "2025_02_11_Large_Assignment_1/src",
+        "2025_02_05_Short_Assignment_3",
+        "2025_01_29_Short_Assignment_2",
+        "2025_01_23_Short_Assignment_1/q2",
+        "2025_04_02_Short_Assignment_7"
+    ]
 }
