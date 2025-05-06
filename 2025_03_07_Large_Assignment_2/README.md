@@ -19,4 +19,5 @@ Run ```java -jar MusicStore.jar```<br>
 ![Class Diagram](CSC335_MusicStore_Composition.svg)
 
 Large Assignment 1 Video: [View On YouTube](https://youtu.be/xeVPu-S0YpM)
+
 Large Assignment 2 Video: [View On YouTube](https://youtu.be/cPtcx5DgyXA)
